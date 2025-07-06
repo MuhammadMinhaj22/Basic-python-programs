@@ -7,7 +7,7 @@ This repository contains simple Python programs for beginners to understand core
 1. **01_age_checker.py**  
    → Check if a person is underage or an adult based on their age input.
 
-2. **01_temperature_converter.py**  
+2. **02_temperature_converter.py**  
    → Convert temperature between Celsius and Fahrenheit using simple formulas.
 
 3. **03_number_to_words.py**  
